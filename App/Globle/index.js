@@ -1,0 +1,2 @@
+global.TOKEN = '';
+global.USERNAME = '';
